@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFibonacciSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling getFibonacci[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 10[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 6[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series lsi of 10[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 7[0m[0m

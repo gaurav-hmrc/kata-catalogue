@@ -1,0 +1,3 @@
+~test
+~testOnly StringProcessingSpec
+~testOnly mythingy.FizzBuzzSpec

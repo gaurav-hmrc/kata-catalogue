@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0m[32mTennisGameSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling getScore[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return love for 0 score[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return love for 1 score[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return love for 2 score[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return love for 3 score[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return exception for 5 score[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling getResult[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 3 and 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 2 and 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 3 and 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 4 and 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 5 and 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 6 and 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 26 and 25[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 9 and 10[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 4 and 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 2 and 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 8 and 6[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match for match scores 16 and 18[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the status of the match invalid scores[0m[0m

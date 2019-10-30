@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mStringProcessingSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling process string[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an string of digits for alphanumeric string[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return 0 for string without digits[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return 0 for empty string[0m[0m

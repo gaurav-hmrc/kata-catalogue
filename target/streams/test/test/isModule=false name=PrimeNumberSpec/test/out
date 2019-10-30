@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mPrimeNumberSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling checkPrime[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Odd for odd number 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Even for number 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Prime for number 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Even for number 100[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Odd for number 9[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Prime for number 7[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling determineOddEvenPrime[0m[0m

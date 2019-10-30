@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mCalcStatsSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mstats method[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return maximum integer value[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return minimum integer value[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return sum of all integers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return number of elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return average[0m[0m

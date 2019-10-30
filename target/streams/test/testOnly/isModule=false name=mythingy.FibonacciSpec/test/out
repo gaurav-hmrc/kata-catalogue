@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFibonacciSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling getFibonacci[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 10[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 6[0m[0m
+[0m[[0minfo[0m] [0m[31m- should return an seq of integers in fibonacci series lsi of 10 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  List(0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55) was not equal to List(1, 1, 2, 3, 5, 8, 13, 21, 34, 55) (FibonacciSpec.scala:48)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return an seq of integers in fibonacci series 7[0m[0m

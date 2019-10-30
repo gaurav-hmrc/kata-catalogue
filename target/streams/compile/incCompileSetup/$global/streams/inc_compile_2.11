@@ -1,0 +1,493 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/user/git/kata-catalogue/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$$anonfun$getMaxValue$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$$anonfun$getMinValue$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$$anonfun$getSum$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Fibonacci$$anonfun$simpleFib$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Fibonacci$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Fibonacci.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/FizzBuzz$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/FizzBuzz.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CompanionMain$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CompanionMain.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Main$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Main.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber$$anonfun$checkPrime$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber$$anonfun$determineOddEvenPrime$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing$$anonfun$processString$1.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing$$anonfun$processString$2.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/TennisGame$.class
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> /home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/TennisGame.class
+binary dependencies:
+14 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> mythingy.CaclStats
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> mythingy.CaclStats$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> mythingy.CaclStats$$anonfun$getMaxValue$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> mythingy.CaclStats$$anonfun$getMinValue$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> mythingy.CaclStats$$anonfun$getSum$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> mythingy.Fibonacci
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> mythingy.Fibonacci$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> mythingy.Fibonacci$$anonfun$simpleFib$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> mythingy.FizzBuzz
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> mythingy.FizzBuzz$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> mythingy.CompanionMain
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> mythingy.CompanionMain$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> mythingy.Main
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> mythingy.Main$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> mythingy.PrimeNumber
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> mythingy.PrimeNumber$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> mythingy.PrimeNumber$$anonfun$checkPrime$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> mythingy.PrimeNumber$$anonfun$determineOddEvenPrime$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> mythingy.StringProcessing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> mythingy.StringProcessing$
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> mythingy.StringProcessing$$anonfun$processString$1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> mythingy.StringProcessing$$anonfun$processString$2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> mythingy.TennisGame
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> mythingy.TennisGame$
+used names:
+252 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> +
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> /
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> A1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> CaclStats
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Double
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Function2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Int
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> RichInt
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> Seq
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> getElements
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> getSum
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> intWrapper
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> integerSeq
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> max
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> min
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> package
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> reduce
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> size
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> toDouble
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> +
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> ++
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> -
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> :+
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> ::
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> <repeated>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> ==
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> >=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> A
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> B
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Boolean
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> CanBuildFrom
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Coll
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Fibonacci
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Function1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> GenTraversableOnce
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Inclusive
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Int
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> List
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> MatchError
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Nil
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Nothing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Range
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> RichInt
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> That
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> U
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> Unit
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> a
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> acc
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> apply
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> b
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> c
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> canBuildFrom
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> fib3
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> fibList
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> fib_tail
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> fibonaccis
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> first
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> foreach
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> immutable
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> intWrapper
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> max
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> n
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> num
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> package
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> prev
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> prevPrev
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> println
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> second
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> simpleFib
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> sum
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> to
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> %
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> ==
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Boolean
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> FizzBuzz
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Int
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Nothing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> String
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> T1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> T2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> Tuple2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> _1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> _2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> ne
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> num
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> toString
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> +
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> Array
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> CompanionMain
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> Main
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> String
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> Unit
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> name
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> println
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> %
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> :+
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> ::
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> <repeated>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> ==
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> A
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> B
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Boolean
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> CanBuildFrom
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Coll
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Function1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Inclusive
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Int
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> List
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Nothing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> PrimeNumber
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Range
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> RichInt
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> String
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> StringContext
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> That
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> U
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> Unit
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> apply
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> canBuildFrom
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> checkPrime
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> checkPrimeString
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> exists
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> foreach
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> i
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> immutable
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> intWrapper
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> println
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> s
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> to
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> unary_!
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> until
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> x
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> <repeated>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> A
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> A1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> B
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Boolean
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> CanBuildFrom
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Char
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Function1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> IndexedSeq
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Int
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> IntIsIntegral
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Integer
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> List
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Nothing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Numeric
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> String
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> StringOps
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> StringProcessing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> T
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> That
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> apply
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> augmentString
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> contains
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> digits
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> fallbackStringCanBuildFrom
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> filter
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> immutable
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> java
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> lang
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> map
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> math
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> package
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> parseInt
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> s
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> sum
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> toString
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> x
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> y
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> &&
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> +
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> -
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> <init>
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> ==
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> >
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> >=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Any
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> AnyRef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Boolean
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Exception
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Int
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Math
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Nothing
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Object
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Predef
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> String
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> T1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> T2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> T3
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> TennisGame
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> Tuple3
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> _1
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> _2
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> _3
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> abs
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> absPointsDiff
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> getScore
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> i
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> isAtleastOnePlayersHave4Points
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> isBothPlayersHaveMin3Points
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> java
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> lang
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> mythingy
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> ne
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> package
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> player1Score
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> player2Score
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> scala
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> ||
+product stamps:
+24 items
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$$anonfun$getMaxValue$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$$anonfun$getMinValue$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$$anonfun$getSum$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CaclStats.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CompanionMain$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/CompanionMain.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Fibonacci$$anonfun$simpleFib$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Fibonacci$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Fibonacci.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/FizzBuzz$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/FizzBuzz.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Main$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/Main.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber$$anonfun$checkPrime$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber$$anonfun$determineOddEvenPrime$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/PrimeNumber.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing$$anonfun$processString$1.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing$$anonfun$processString$2.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/StringProcessing.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/TennisGame$.class -> lastModified(1571907350000)
+/home/user/git/kata-catalogue/target/scala-2.11/classes/mythingy/TennisGame.class -> lastModified(1571907350000)
+source stamps:
+7 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> hash(93dbf2771c97ee9872bb18f8813327d49cd988ed)
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> hash(9333c06d61305e60da3b6fb614b12209500d4386)
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> hash(e9e83da18a7507b0734a08a907427d4396b0f3a7)
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> hash(5dbad90275ab90ffb6d6e8f6b41b853019581e45)
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> hash(cd007f454ce9443b71d1271a6a9b0e907d7403b1)
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> hash(05636911a6ff8e180e62b26fd198d0f9cbaceba6)
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> hash(d28e70afc04ebc7e0aaf099fd19dba386b5c3e35)
+binary stamps:
+2 items
+/home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1497049709000)
+class names:
+2 items
+/home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.package$
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+7 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwZraVQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwS5Agy3QABm5vdGlmeXNxAH4ADFiveDJ0AAR3YWl0c3EAfgAMf3JSUXQACUNhY2xTdGF0c3NxAH4ADAv1+xh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMopNdRnQAC2dldEVsZW1lbnRzc3EAfgAMDyiSoHQABmVxdWFsc3NxAH4ADHmgmlB0AAtnZXRNaW5WYWx1ZXNxAH4ADH/2ReN0AAxhc0luc3RhbmNlT2ZzcQB+AAxO0NHadAAMc3luY2hyb25pemVkc3EAfgAMjXGkgnQADSRpc0luc3RhbmNlT2ZzcQB+AAyh9xFxdAAJbm90aWZ5QWxsc3EAfgAMVjNsZHQADGlzSW5zdGFuY2VPZnNxAH4ADPK1sbp0AAZnZXRBdmdzcQB+AAzov+NzdAALZ2V0TWF4VmFsdWVzcQB+AAwa8HF/dAACPT1zcQB+AAwlYDssdAAFY2xvbmVzcQB+AAwONZE9dAAIdG9TdHJpbmdzcQB+AAwdRtmNdAACIT1zcQB+AAz96U3zdAAGZ2V0U3Vtc3EAfgAMWMftHnQACGdldENsYXNzc3EAfgAMrQyM5HQAAm5lc3EAfgAM5cI3w3QAAmVxc3EAfgAMi77C63QAAiMjc3EAfgAMKYTYHXQACGZpbmFsaXplc3EAfgAMW3gVPXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEm15dGhpbmd5LkNhY2xTdGF0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIbXl0aGluZ3lzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW38+qB8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABST2/J3HJfumHK7GPiBMyfUnNmI7Q==
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCFD17gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7UJh53QABm5vdGlmeXNxAH4ADNIIy1V0AAR3YWl0c3EAfgAMTvEbaXQADSRhc0luc3RhbmNlT2ZzcQB+AAwiLmB6dAAGZXF1YWxzc3EAfgAMjntWYXQADGFzSW5zdGFuY2VPZnNxAH4ADASily10AAlGaWJvbmFjY2lzcQB+AAxWnCh3dAAMc3luY2hyb25pemVkc3EAfgAMVPOrlHQADSRpc0luc3RhbmNlT2ZzcQB+AAxkI/zKdAAEZmliM3NxAH4ADCRjowF0AAlub3RpZnlBbGxzcQB+AAzciWipdAAMaXNJbnN0YW5jZU9mc3EAfgAMZENhIXQAAj09c3EAfgAM9+WAgHQACXNpbXBsZUZpYnNxAH4ADPM8NOl0AAVjbG9uZXNxAH4ADKHcazd0AAxnZXRGaWJvbmFjY2lzcQB+AAy1MGWndAAIdG9TdHJpbmdzcQB+AAyzZyrvdAACIT1zcQB+AAzQrufCdAAIZ2V0Q2xhc3NzcQB+AAxy9b9xdAACbmVzcQB+AAzzeVcTdAAHZmliTGlzdHNxAH4ADEw606x0AAJlcXNxAH4ADL99tWB0AAIjI3NxAH4ADNgLQ3B0AAhmaW5hbGl6ZXNxAH4ADLaGjSh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJteXRoaW5neS5GaWJvbmFjY2l1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBkc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH1zcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACG15dGhpbmd5c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFt/PqgfHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADcvaG9tZS91c2VyL2dpdC9rYXRhLWNhdGFsb2d1ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkzPAbWEwXmDaO2+2FLEiCVANQ4Y=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6PaXwAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqaVpnnQABm5vdGlmeXNxAH4ADMbiN7p0AAR3YWl0c3EAfgAM6w9VOnQADSRhc0luc3RhbmNlT2ZzcQB+AAwIQmYJdAAGZXF1YWxzc3EAfgAMiESN/3QADGFzSW5zdGFuY2VPZnNxAH4ADOvtFHh0AAxzeW5jaHJvbml6ZWRzcQB+AAxhQR5xdAANJGlzSW5zdGFuY2VPZnNxAH4ADN2+bGN0AAlub3RpZnlBbGxzcQB+AAwcAQrUdAAMaXNJbnN0YW5jZU9mc3EAfgAM3Wr+6HQAAj09c3EAfgAMeFrFf3QABWNsb25lc3EAfgAMDTqib3QACHRvU3RyaW5nc3EAfgAMvIgNx3QAAiE9c3EAfgAMy5UkMHQACEZpenpCdXp6c3EAfgAMZgsjt3QACGdldENsYXNzc3EAfgAMfo4HOHQAAm5lc3EAfgAMUA2IaXQAAmVxc3EAfgAMBr68nXQAAiMjc3EAfgAMxuG82XQACGZpbmFsaXplc3EAfgAMaj0fXnQACGhhc2hDb2Rlc3EAfgAM4OwDPXQAC2dldEZpenpCdXp6c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEW15dGhpbmd5LkZpenpCdXp6dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB2dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB3c3EAfgBqdAADQW55c3EAfgBuc3EAfgBxdXEAfgB0AAAAAnNxAH4AdnQABXNjYWxhcQB+AH11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhteXRoaW5neXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfz6oHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA3L2hvbWUvdXNlci9naXQva2F0YS1jYXRhbG9ndWUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOnoPaGKdQewc0oIqQdCfUOWsPOn
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgEx5VgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOF6mn3QABm5vdGlmeXNxAH4ADC+F/YB0AARuYW1lc3EAfgAMbf68PXQABHdhaXRzcQB+AAxmoWi3dAANJGFzSW5zdGFuY2VPZnNxAH4ADHBjvfd0AAZlcXVhbHNzcQB+AAykXnx/dAAMYXNJbnN0YW5jZU9mc3EAfgAMc/qw9XQADHN5bmNocm9uaXplZHNxAH4ADCQrMIZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMlLEkqnQABG1haW5zcQB+AAzVY+ludAAJbm90aWZ5QWxsc3EAfgAMRcKI2nQADGlzSW5zdGFuY2VPZnNxAH4ADIf0iTN0AAI9PXNxAH4ADNOkRe50AAVjbG9uZXNxAH4ADAD4DIh0AARNYWluc3EAfgAMAF/K5XQACHRvU3RyaW5nc3EAfgAMhuw6rnQAAiE9c3EAfgAMqtx9b3QADUNvbXBhbmlvbk1haW5zcQB+AAwrL0YbdAAIZ2V0Q2xhc3NzcQB+AAwwufl+dAACbmVzcQB+AAzviFA2dAACZXFzcQB+AAzrbZQvdAACIyNzcQB+AAwRqe7qdAAIZmluYWxpemVzcQB+AAyhc5urdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANbXl0aGluZ3kuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEZxAH4AT3VxAH4AUAAAAABzcQB+AFIAcQB+AB91cQB+AFUAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBYdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBwdAAFQXJyYXlxAH4AdnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBwdAAGU3RyaW5nc3EAfgB0c3EAfgB3dXEAfgB6AAAAA3NxAH4AfHQABGphdmFzcQB+AHx0AARsYW5ncQB+AIFzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgCVAAAAAnNxAH4AcHQABk9iamVjdHEAfgCZc3EAfgBwdAADQW55cQB+AHZzcQB+AEJxAH4AT3VxAH4AUAAAAABzcQB+AFIAdAAWbXl0aGluZ3kuQ29tcGFuaW9uTWFpbnVxAH4AVQAAAABxAH4AWXVxAH4AWwAAAABzcQB+AF1xAH4AY3NxAH4AXXNxAH4AZXNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgCVAAAAAnNxAH4AcHEAfgClc3EAfgB0c3EAfgB3dXEAfgB6AAAAA3NxAH4AfHEAfgCdc3EAfgB8cQB+AJ9xAH4AgXNxAH4AcHEAfgCnc3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHEAfgB/cQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhteXRoaW5neXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfz6oHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA3L2hvbWUvdXNlci9naXQva2F0YS1jYXRhbG9ndWUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF262QJ1q5D/ttbo9rQbhTAZWB5F
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw/y7iOgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7CboU3QABm5vdGlmeXNxAH4ADEjJFQV0AAR3YWl0c3EAfgAMNI8Ny3QADSRhc0luc3RhbmNlT2ZzcQB+AAymoc/RdAAGZXF1YWxzc3EAfgAMsNqr9nQADGFzSW5zdGFuY2VPZnNxAH4ADDSTtkJ0AAxzeW5jaHJvbml6ZWRzcQB+AAwriU7qdAANJGlzSW5zdGFuY2VPZnNxAH4ADC4txhJ0AApjaGVja1ByaW1lc3EAfgAMBj5ihHQACW5vdGlmeUFsbHNxAH4ADLH+xxd0AAxpc0luc3RhbmNlT2ZzcQB+AAxjloVVdAACPT1zcQB+AAwXv24PdAAFY2xvbmVzcQB+AAyRxovDdAALUHJpbWVOdW1iZXJzcQB+AAwJlGoQdAAIdG9TdHJpbmdzcQB+AAyJ2MK0dAACIT1zcQB+AAy+k6nfdAAIZ2V0Q2xhc3NzcQB+AAzoju+hdAACbmVzcQB+AAxRt3QfdAACZXFzcQB+AAwCQMDadAACIyNzcQB+AAwBAfW7dAAIZmluYWxpemVzcQB+AAyAXy7OdAAIaGFzaENvZGVzcQB+AAx4AdyzdAAVZGV0ZXJtaW5lT2RkRXZlblByaW1lc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFG15dGhpbmd5LlByaW1lTnVtYmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhteXRoaW5neXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfz6oHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA3L2hvbWUvdXNlci9naXQva2F0YS1jYXRhbG9ndWUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM0Af0VM6UQ7cdEnGmqbDpB9dAOx
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwChoruQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPhjpB3QABm5vdGlmeXNxAH4ADKX/BgN0AAR3YWl0c3EAfgAMQGz8EnQADSRhc0luc3RhbmNlT2ZzcQB+AAwI57zSdAAGZXF1YWxzc3EAfgAMa+skdHQADGFzSW5zdGFuY2VPZnNxAH4ADMi72lR0AAxzeW5jaHJvbml6ZWRzcQB+AAwrgBT+dAANJGlzSW5zdGFuY2VPZnNxAH4ADPfhAgF0ABBTdHJpbmdQcm9jZXNzaW5nc3EAfgAMZNU1FXQACW5vdGlmeUFsbHNxAH4ADLwsGE90AAxpc0luc3RhbmNlT2ZzcQB+AAw6gE8ldAACPT1zcQB+AAwceR3rdAAFY2xvbmVzcQB+AAxqF4hkdAAIdG9TdHJpbmdzcQB+AAzg2LNvdAACIT1zcQB+AAyPP7o1dAAIZ2V0Q2xhc3NzcQB+AAwBBJAjdAACbmVzcQB+AAztViLldAACZXFzcQB+AAx1tPKtdAACIyNzcQB+AAzXXLuFdAAIZmluYWxpemVzcQB+AAzIDDmTdAANcHJvY2Vzc1N0cmluZ3NxAH4ADJUp5KZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABlteXRoaW5neS5TdHJpbmdQcm9jZXNzaW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB2dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB3c3EAfgBqdAADQW55c3EAfgBuc3EAfgBxdXEAfgB0AAAAAnNxAH4AdnQABXNjYWxhcQB+AH11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhteXRoaW5neXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfz6oHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA3L2hvbWUvdXNlci9naXQva2F0YS1jYXRhbG9ndWUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAVjaRGm/44YDmKyb9GY0PnLrOum
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOscmPwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEjopBnQABm5vdGlmeXNxAH4ADCZxfph0AApUZW5uaXNHYW1lc3EAfgAMhFiwI3QABHdhaXRzcQB+AAyx8KX5dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk8inJ0AAZlcXVhbHNzcQB+AAwZGpS2dAAJZ2V0UmVzdWx0c3EAfgAMxyPME3QADGFzSW5zdGFuY2VPZnNxAH4ADLvw92R0AAhnZXRTY29yZXNxAH4ADPqZICh0AAxzeW5jaHJvbml6ZWRzcQB+AAwx5dKMdAANJGlzSW5zdGFuY2VPZnNxAH4ADIsigYl0AAlub3RpZnlBbGxzcQB+AAxZUCSHdAAMaXNJbnN0YW5jZU9mc3EAfgAMvHVf+nQAAj09c3EAfgAMwK9m1nQABWNsb25lc3EAfgAMKNWxNXQACHRvU3RyaW5nc3EAfgAMR+GzhHQAAiE9c3EAfgAMwv+gBXQACGdldENsYXNzc3EAfgAMD7kI6XQAAm5lc3EAfgAMnr60P3QAAmVxc3EAfgAMIOfq3XQAAiMjc3EAfgAMQQ1nBHQACGZpbmFsaXplc3EAfgAMMHyc1nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE215dGhpbmd5LlRlbm5pc0dhbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACG15dGhpbmd5c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFt/PqgfHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADcvaG9tZS91c2VyL2dpdC9rYXRhLWNhdGFsb2d1ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0o5wr8BOvH4Krwmf0Z26OGtcPjU=
+external apis:
+0 items
+source infos:
+7 items
+/home/user/git/kata-catalogue/src/main/scala/mythingy/CaclStats.scala -> 
+AAAAAAAAAAA=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Fibonacci.scala -> 
+AAAAAAAAAAA=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/FizzBuzz.scala -> 
+AAAAAAAAAAA=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/Main.scala -> 
+AAAAAAAAAAA=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/PrimeNumber.scala -> 
+AAAAAAAAAAA=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/StringProcessing.scala -> 
+AAAAAAAAAAA=
+/home/user/git/kata-catalogue/src/main/scala/mythingy/TennisGame.scala -> 
+AAAAAAAAAAA=
+compilations:
+56 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbd7/TyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbePznAp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbeP2Ojl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbeP5DlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbeP71ih1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbeP8PHF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbeQC5GZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABberaHhJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbercG6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABberc/mB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABberm3u11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbernUjd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABberoVX51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABberqQmB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbersRdN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABberxez51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesC/D51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesH+2x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesatYh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbescXsF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesd34F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesed9N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesm1qh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbesnXk11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbes0PPl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbes13YV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbes3w5R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbes4vUV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbetBQN51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbetEMRV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbetFw+51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbetL1jh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbetNqNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe5r2KV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe56K2x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe59goB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe593oh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe6AIWt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe6Ap7d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe6uFbZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbe6uq+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfPmeIV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfQZpph1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfQfN4x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfQgdSV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfQiIrJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfQiyc91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfV5YY11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfV6jGt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfV7GV51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfV9XpB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfV+1wB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfWCYNZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfWEQ5x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfWFl8Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbfz6oHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9ob21lL3VzZXIvZ2l0L2thdGEtY2F0YWxvZ3VlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

@@ -1,0 +1,18 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(mythingy.TennisGameSpec, org.scalatest.tools.Framework$$anon$1@23f8ae26, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(mythingy.PrimeNumberSpec, org.scalatest.tools.Framework$$anon$1@23f8ae26, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(mythingy.FizzBuzzSpec, org.scalatest.tools.Framework$$anon$1@23f8ae26, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(mythingy.CalcStatsSpec, org.scalatest.tools.Framework$$anon$1@23f8ae26, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(mythingy.FibonacciSpec, org.scalatest.tools.Framework$$anon$1@23f8ae26, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(mythingy.StringProcessingSpec, org.scalatest.tools.Framework$$anon$1@23f8ae26, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 466 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 45[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 45, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	mythingy.TennisGameSpec[0m
+[0m[[0mdebug[0m] [0m	mythingy.FibonacciSpec[0m
+[0m[[0mdebug[0m] [0m	mythingy.PrimeNumberSpec[0m
+[0m[[0mdebug[0m] [0m	mythingy.CalcStatsSpec[0m
+[0m[[0mdebug[0m] [0m	mythingy.FizzBuzzSpec[0m
+[0m[[0mdebug[0m] [0m	mythingy.StringProcessingSpec[0m
